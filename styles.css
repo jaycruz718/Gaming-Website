@@ -125,6 +125,7 @@ header {
     position: absolute;
     right: 20px;
     bottom: 30px;
+    color: white;
 }
 
 .next-btn {
@@ -138,7 +139,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: black;
+    color: red;
     font-size: 30px;
     font-weight: bold;
     cursor: pointer;
