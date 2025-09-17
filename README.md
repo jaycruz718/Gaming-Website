@@ -52,8 +52,10 @@ Welcome to **Zentry**, a modern, immersive landing page for a futuristic gaming 
 - Open source design inspiration from award-winning websites
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and share!
+This project is licensed under the [MIT License](LICENSE).
+
 
 ## Author 
 Jennifer Cruz Gaston
 Github: 
+Linkedin: https://www.linkedin.com/in/jennifer-cruz-gaston/
